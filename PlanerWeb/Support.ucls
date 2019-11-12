@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="com.bit.tsigner.model.SupportDao" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/model/SupportDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="290" x="132" y="-187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" language="java" name="com.bit.tsigner.service.InqReplyService" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/service/InqReplyService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="183" x="1583" y="1387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="com.bit.tsigner.controller.SupportController" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/controller/SupportController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="308" x="1695" y="-187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="com.bit.tsigner.model.InqReplyDao" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/model/InqReplyDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="218" x="462" y="-187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="com.bit.tsigner.model.entity.SupportVo" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/model/entity/SupportVo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1125" width="628" x="720" y="-187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.bit.tsigner.service.SupportServiceImpl" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/service/SupportServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="314" x="2043" y="-187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.bit.tsigner.model.entity.InqReplyVo" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/model/entity/InqReplyVo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="267" x="1388" y="-187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.bit.tsigner.service.InqReplyServiceImpl" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/service/InqReplyServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="183" x="1472" y="978"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.bit.tsigner.controller.SupportController.InqReplyController" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/controller/SupportController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="224" x="1695" y="978"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="com.bit.tsigner.service.SupportService" project="tsigner" 
+    file="/tsigner/src/main/java/com/bit/tsigner/service/SupportService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="314" x="1959" y="978"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="11">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="12" name="supportService"/>      
+      <multiplicity id="13" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="14">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="15">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="16" name="inqReplyService"/>      
+      <multiplicity id="17" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="18">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <realization id="19">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
